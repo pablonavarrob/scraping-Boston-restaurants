@@ -1,0 +1,200 @@
+name_restaurant,direction,amount_ratings,amount_ratings_excellent,amount_ratings_vgood,amount_ratings_average,amount_ratings_poor,amount_ratings_terrible
+"King Falafel Restaurant, Boston","48 Winter St, Boston, MA 02108-4712",-68,25,24,9,3,2
+"ZO, Boston","92 State St, Boston, MA 02109-2004",-26,18,6,0,0,0
+"Ernesto's Pizza, Boston","69 Salem St Ste 1, Boston, MA 02113-2248",-370,209,99,24,6,7
+"Cosi, Boston","2 Seaport Ln, Boston, MA 02210-2001",-52,16,20,6,1,2
+"Blaze Pizza, Boston","1282 Boylston St, Boston, MA 02215-4448",-71,34,21,4,3,3
+"Raising Cane's, Boston","949 Commonwealth Ave, Boston, MA 02215-1305",-39,21,14,1,1,0
+"Anna's Taqueria, Boston","242 Cambridge St, Boston, MA 02114-3122",-108,44,37,12,1,3
+"Piperi Mediterranean Grill, Boston","1 Beacon St, Boston, MA 02108-3107",-79,54,16,3,1,1
+"Mmmac and cheese, Boston","1 Faneuil Hall Market, Boston, MA 02109-6117",-61,35,14,2,2,1
+"Boloco, Boston","284 Congress St, Boston, MA 02210-1003",-34,15,16,2,0,0
+"Sal's Pizza, Boston","150 Tremont St, Boston, MA 02111-1138",-78,39,18,11,2,0
+"B.GOOD, Boston","131 Dartmouth St, Boston, MA 02116-5297",-78,41,18,5,6,3
+"Finagle-A-Bagel, Boston","535 Boylston St, Boston, MA 02116-3720",-107,38,31,16,3,0
+"Saloniki Greek, Boston","4 Kilmarnock St, Boston, MA 02215-3902",-84,26,34,14,4,2
+"Boloco, Boston","569 Boylston St, Boston, MA 02116-3745",-60,16,18,12,3,0
+"B.GOOD, Boston","255 Washington St, Boston, MA 02108-4304",-64,30,18,6,1,0
+"Dunkin', Boston","800 Boylston St, Boston, MA 02199",-35,8,9,4,2,0
+"Dunkin', Boston","750 Washington St Proger Bldg, Boston, MA 02111",-19,7,6,1,0,1
+"Dunkin', Boston","16 Kneeland St #18, Boston, MA 02111-1515",-13,2,2,0,0,1
+"Beta Burger Inc, Boston","1437 Tremont St, Boston, MA 02120-3403",-4,1,2,0,0,1
+"Garlic 'n Lemons, Boston","133 Harvard Ave, Boston, MA 02134-2702",-40,30,8,0,1,1
+"The Halal Guys, Boston","137 Stuart St, Boston, MA 02116-5609",-28,9,10,3,2,1
+Zo Boston,"3 Center Plz, Boston, MA 02108-2003",-15,6,5,3,1,0
+"Bagelville, Boston","200 Faneuil Hall, Boston, MA 02109-1634",-38,5,13,3,2,0
+"Dunkin' Donuts, Boston","80 Boylston St, Boston, MA 02116-4808",-28,4,7,2,1,0
+"McDonald's, Boston","540 Commonwealth Ave, Boston, MA 02215",-31,6,9,6,3,1
+"Dunkin', Boston","715 Boylston St, Boston, MA 02116",-77,15,19,5,6,2
+"Flamers Charbroiled Hamburgers, Boston","800 Boylston St, Boston, MA 02199-8001",-13,2,2,3,2,0
+"Subway, Boston","230 Tremont St Ste A, Boston, MA 02116",-15,5,2,0,0,1
+"Popeyes Louisiana Kitchen, Boston","21 Brookline Ave, Boston, MA 02215-3421",-31,7,11,2,3,2
+"sweetgreen, Boston","800 Boylston St, Boston, MA 02199",-50,20,19,4,1,1
+"Purple Cactus Burrito & Wrap Bar, Boston","674 Centre St, Boston, MA 02130-2516",-45,18,18,7,2,0
+"Viva Burrito, Boston","66 Staniford St, Boston, MA 02114-2525",-43,18,16,6,0,2
+"by CHLOE., Boston","399 Boylston Street, Boston, MA 02116",-18,12,3,0,0,1
+"McDonald's, Boston","146 Tremont St, Boston, MA 02111",-45,3,7,9,5,3
+"Spike's Junkyard Dogs, Boston","108 Brighton Ave, Boston, MA 02134-2811",-33,13,12,4,1,1
+"El Pelon Taqueria, Boston","2197 Commonwealth Ave, Boston, MA 02135-3853",-91,44,33,5,1,2
+"The Chicken and Rice Guys, Boston","85 Bedford St, Boston, MA 02111-2220",-9,7,1,0,0,0
+"Five Guys, Boston","263 Huntington Ave, Boston, MA 02115",-37,12,5,3,2,0
+"Wendy's, Boston","551 Boylston Street, Boston, MA 02116",-42,5,5,8,0,1
+"Sam LaGrassa's, Boston","44 Province St, Boston, MA 02108-5120","-1,559","1,098",258,47,10,7
+"Boloco, Boston","1080 Boylston St, Boston, MA 02215-3601",-28,6,12,6,0,0
+"Roxy's Gourmet Grilled Cheese, Boston","485 Cambridge St, Boston, MA 02134-2019",-91,47,27,11,0,3
+"Tasty Burger, Boston","145 Dartmouth St, Boston, MA 02116-5162",-50,11,12,6,3,3
+"Shawarma Falafel, Boston","26 Province St, Boston, MA 02108-5105",-55,23,17,7,1,1
+"Boloco, Boston","2 Park Plz, Boston, MA 02116-3932",-28,8,5,3,2,0
+"Five Guys, Boston","58 Summer Street, Boston, MA 02110",-80,20,15,5,2,3
+"Al's Cafe, Boston","112 State St, Boston, MA 02109-2401",-138,96,31,5,2,0
+"Falafel King, Boston","260 Washington St, Boston, MA 02108-4603",-61,24,23,5,1,0
+"Chilacates, Boston","224 Amory St, Boston, MA 02130-2353",-58,46,9,0,0,0
+"Shake Shack, Boston","77 Seaport Blvd, Boston, MA 02210-2041",-95,35,29,11,2,5
+"Crush Pizza, Boston","107 State St, Boston, MA 02109-2908",-117,61,32,8,3,4
+"Luke's Lobster Downtown Crossing, Boston","290 Washington St, Boston, MA 02108-4638",-168,78,41,12,4,1
+"Uburger, Boston","636 Beacon St Ste 3, Boston, MA 02215-2004",-134,46,52,13,5,1
+"Sullivan's, Boston","2080 Day Blvd, Boston, MA 02127",-165,95,42,14,4,4
+Boston Chowda,"Quincy Market, Boston, MA 02109",-461,192,121,34,9,2
+"Tasty Burger, Boston","1301 Boylston Street, Boston, MA 02215-3909",-370,165,105,34,15,9
+Boston Chowda Co,"164 Northern Ave, Boston, MA 02210-2031",-181,87,53,20,2,1
+"sweetgreen, Boston","659 Boylston St, Boston, MA 02116",-220,121,56,11,2,2
+"Shake Shack, Boston","234-236 Newbury Street, Boston, MA 02116-2549",-235,56,57,26,7,2
+"Dunkin', Boston","111 State St, Boston, MA 02109",-24,4,4,9,1,0
+"Potbelly Sandwich Shop, Boston","263 Washington Street, Boston, MA 02108",-42,14,15,4,1,0
+"Steve's Greek Cuisine, Boston","1 Faneuil Hall Sq, Boston, MA 02109-1604",-47,16,15,4,4,5
+"Mama's Place, Boston","764 Huntington Ave, Boston, MA 02115-6313",-22,14,6,2,0,0
+"Blaze Pizza, Boston","123 Stuart St, Boston, MA 02116-5609",-27,9,13,1,1,0
+"Aceituna Grill, Boston","57 Boston Wharf Rd, Boston, MA 02210-2187",-12,4,3,4,0,1
+"Dunkin', Boston","145 Dartmouth St, Boston, MA 02116",-13,2,1,2,0,0
+"Dunkin', Boston","230 Congress St, Boston, MA 02110",-12,2,3,2,0,2
+"Au Bon Pain, Boston","100 Huntington Ave, Boston, MA 02116-6506",-140,31,44,29,4,3
+"B.GOOD, Boston","84 Summer St, Boston, MA 02110-1210",-24,10,7,1,2,1
+"Dunkin', Boston","70 E India Row, Boston, MA 02110",-48,14,8,2,1,0
+"Currito, Boston","Airport Road Terminal C, Boston, MA 02128",-33,1,17,10,3,2
+"Subway, Boston","100 City Hall Plaza, Boston, MA 02108",-5,1,0,3,0,0
+"Gourmet India, Boston","1 Faneuil Hall Sq, Boston, MA 02109-1604",-45,12,19,5,3,2
+"Fisherman Net, Boston","200 Faneuil Hall Market Pl, Boston, MA 02109-1634",-54,11,25,9,2,1
+"Dunkin', Boston","153 Massachusetts Ave, Boston, MA 02115",-6,0,1,3,0,0
+"Joshua's Deli, Boston","44 Batterymarch St, Boston, MA 02110-3202",-12,5,6,0,0,0
+"Panera Bread, Boston","289 Huntington Avenue, Boston, MA 02115",-33,7,11,2,1,4
+"Earl of Sandwich, Boston","1B Charles Street, Boston, MA 02114",-43,11,14,9,2,2
+"Panera Bread, Boston","201 Brookline Avenue, Boston, MA 02215",-17,3,6,6,0,1
+"Royal Roast Beef and Seafood, Boston","752 Bennington St, Boston, MA 02128-1136",-39,15,13,7,2,1
+"Los Amigos, Boston","1743 Centre St, Boston, MA 02132-1535",-25,13,5,4,1,2
+"Dunkin', Boston","510 Southampton St, Boston, MA 02127",-12,3,3,1,0,1
+"MOOYAH Burgers, Fries & Shakes, Boston","140 Tremont St, Boston, MA 02111-1318",-9,6,3,0,0,0
+"Subway, Boston","144 Tremont St, Boston, MA 02111-1202",-16,5,1,2,1,0
+Boston Kebab House,"7 Liberty Sq, Boston, MA 02109-5818",-15,4,6,3,1,0
+"New York Pizza, Boston","224 Tremont St, Boston, MA 02116-4783",-87,26,30,9,5,2
+"Dunkin, Boston","200 Seaport Blvd, Boston, MA 02210",-59,16,15,11,3,5
+"Griddler's Burgers & Dogs, Boston","134 Boylston St, Boston, MA 02116-4608",-21,7,6,3,2,1
+"Au Bon Pain, Boston","26 Park Plaza, Boston, MA 02116-3928",-295,83,93,38,7,11
+"Al's South Street Cafe, Boston","179 Essex St, Boston, MA 02111-2618",-13,9,1,1,0,1
+"Megumi of Japan, Boston","1 Faneuil Hall Sq, Boston, MA 02109-1604",-20,2,7,4,1,1
+"Chipotle Mexican Grill, Boston","148 Brookline Ave, Boston, MA 02215",-22,4,9,2,0,2
+"McDonald's, Boston","329 Washington St, Boston, MA 02108",-15,0,2,6,2,1
+"Subway, Boston","1122 Boylston St, Boston, MA 02115",-11,1,3,1,0,1
+"Back Bay Sandwich, Boston","31 Saint James Ave, Boston, MA 02116-4101",-20,12,1,1,0,0
+"Dig, Boston","800 Boylston Street, Boston, MA 02199",-13,2,7,3,0,0
+"Chipotle Mexican Grill, Boston","1924 Beacon St, Boston, MA 02135",-36,7,9,7,1,2
+Boston Kitchen Pizza,"1 Stuart St, Boston, MA 02116-4723",-79,29,23,4,3,3
+"Crazy Dough's Pizza, Boston","1124 Boylston St, Boston, MA 02215-3601",-28,17,10,0,1,0
+"Little Steve's Pizzeria, Boston","1114 Boylston St, Boston, MA 02215-3601",-45,12,10,10,4,3
+"Zest Mediterranean Grille, Boston","1076 Boylston St, Boston, MA 02215-3601",-23,11,6,1,1,3
+"Philadelphia Steak & Hoagie, Boston","Faneuil Hall Marketplace, Boston, MA 02110-2212",-17,4,7,4,1,0
+"Chicken Lou's, Boston","50 Forsyth St, Boston, MA 02115-5025",-15,12,0,3,0,0
+"QDOBA Mexican Eats, Boston","393 Huntington Ave Ste 101, Boston, MA 02115",-26,6,11,3,1,0
+"Tasty Burger, Boston","1 Nashua St North Station, Boston, MA 02114-1601",-18,10,4,2,1,1
+"Subway, Boston","393 Massachusetts Ave Space F-1, Boston, MA 02115",-9,2,1,1,0,0
+"QDOBA Mexican Eats, Boston","540 Commonwealth Ave, Boston, MA 02215",-23,7,6,3,0,0
+"Dunkin', Boston","147 Tremont St, Boston, MA 02111-1202",-7,1,1,3,0,0
+"Gyro City, Boston","88 Peterborough St, Boston, MA 02215-4847",-36,21,7,4,1,1
+"Subway, Boston","74 Summer St, Boston, MA 02110-1210",-2,0,0,1,0,0
+"Dunkin', Boston","235 Washington St, Boston, MA 02108",-25,7,3,11,1,0
+"Wheelhouse, Boston","63 Broad St Financial District, Boston, MA 02109-4808",-78,51,20,2,0,0
+"Bruegger's Bagels, Boston","7 School St, Boston, MA 02108-4305",-203,75,59,24,7,11
+"Burger King, Boston","1 Harborside Dr Terminal C, Boston, MA 02128-2907",-12,1,5,3,1,0
+"Philadelphia Steak & Sub Co, Boston","Faneuil Hall Marketplace Quincy Market, Boston, MA 02109",-35,6,9,5,3,4
+"Regina Pizzeria, Boston","1330 Boylston St, Boston, MA 02215-4229",-77,39,21,6,0,0
+by CHLOE. - Boston Seaport,"107 Seaport Blvd, Boston, MA 02210",-61,37,17,4,1,1
+"Chipotle Mexican Grill, Boston","283 Washington St, Boston, MA 02108",-104,24,23,14,12,4
+"Potbelly Sandwich Shop, Boston","1 Harborside Drive Terminal C, Boston, MA 02128",-47,16,17,9,1,4
+"GreCo, Boston","225 Newbury St, Boston, MA 02116-2522",-57,44,8,1,0,1
+Boston and Maine Fish Co.,"200 Faneuil Hall Market Pl, Boston, MA 02109-1634",-198,42,53,23,11,13
+"Cheeseboy, Boston","720 Atlantic Ave, Boston, MA 02111-2815",-24,10,8,4,1,0
+"El Paso Enchiladas, Boston","2135 Faneuil Hall Market Place, Boston, MA 02109-6117",-17,4,6,2,1,4
+"McDonald's, Boston","870 Massachusetts Ave, Boston, MA 02118",-19,2,4,3,1,4
+"Crazy Dough's Pizza, Boston","100 Legends Way, Boston, MA 02114-1300",-22,4,7,6,2,2
+"The Best Sausage Co, Boston","1 Jersey Street, Boston, MA 02215-3408",-30,10,7,8,0,3
+"Mashawi grill, Boston","157 Sutherland Rd, Boston, MA 02135-7301",-3,0,1,1,0,0
+"B.Good, Boston","665 Boylston St, Boston, MA 02116-4824",-21,8,5,1,0,3
+"Master Wok, Boston","650 Atlantic Ave, Boston, MA 02210-2201",-11,1,4,4,1,1
+"Nino's Pizza, Boston","79 Charles St, Boston, MA 02114-4632",-23,5,11,4,0,2
+"Dunkin' Donuts, Boston","13 Maverick Sq, Boston, MA 02128-2312",-26,7,6,7,3,0
+"Emilios Pizza & Sub Shop, Boston","536 Tremont St, Boston, MA 02116-6335",-38,10,13,5,3,4
+"M M Mac N Cheese, Boston","1 Faneuil Hall Market Pl, Boston, MA 02109-6117",-20,10,6,1,0,1
+"Dunkin' Donuts, Boston","1 Harborside Dr Terminal C, Boston, MA 02128-2907",-13,2,2,2,1,4
+"Simco's Takeout, Boston","1509 Blue Hill Ave, Boston, MA 02126-1702",-11,5,4,0,1,1
+"Cappy's Pizza & Subs, Boston","82 Westland Ave, Boston, MA 02115-3811",-12,7,3,1,1,0
+"Union Park Pizza, Boston","1405 Washington St, Boston, MA 02118-2009",-4,4,0,0,0,0
+"Clover, Boston","360 Longwood Ave, Boston, MA 02115",-27,17,8,0,1,0
+"Dunkin', Boston","179 Brighton Ave, Boston, MA 02134",-1,0,1,0,0,0
+"West End Strollers, Boston","1 Faneuil Hall Market Pl, Boston, MA 02109-6117",-25,2,5,1,7,9
+"Beantown Pastrami Co., Boston","100 Hanover St., Boston, MA 02108",-23,10,7,3,0,0
+"Domino's Pizza, Boston","1260 Boylston St Ste 2, Boston, MA 02215",-20,3,1,2,0,9
+"Sorelle Bakery and Cafe, Boston","100 Northern Ave, Boston, MA 02210-1980",-4,1,0,1,0,0
+"Clover, Boston","160 Federal St, Boston, MA 02110-1700",-13,7,4,2,0,0
+"Fast Eddie's Pizza, Boston","1696 Commonwealth Ave, Boston, MA 02135-5602",-6,0,1,2,0,2
+"Tender Greens, Boston","100 Huntington Ave, Boston, MA 02116-6506",-5,1,2,1,0,1
+Boston Ice Cream Factory,"777A William T Morrissey Blvd, Boston, MA 02122-3331",-4,2,1,0,0,1
+"B.good, Boston","50 Northern Ave, Boston, MA 02210-1862",-3,2,0,0,0,1
+"Dunkin' Donuts, Boston","Airport Road Terminal B, Boston, MA 02128",-13,0,2,3,2,5
+"Cafe Artigiano, Boston","8 City Hall Ave, Boston, MA 02108-4301",-6,5,1,0,0,0
+"Popeyes Louisiana Kitchen, Boston","330 M L King Blvd, Boston, MA 02119-1868",-4,1,1,1,0,1
+"B.good, Boston","359 Huntington Ave, Boston, MA 02115-4402",-3,1,1,0,0,1
+"Burger King, Boston","128 Tremont St, Boston, MA 02108",-20,0,1,3,1,4
+"Panera Bread, Boston","115 Stuart Street, Boston, MA 02116",-177,42,51,27,6,5
+"Panera Bread, Boston","450 Boylston Street, Boston, MA 02116",-100,18,24,13,7,6
+"Foumami, Boston","225 Franklin St Lbby 1, Boston, MA 02110-2804",-16,3,8,3,0,1
+"La Befana Pizzeria, Boston","15 N Beacon St Ste 12, Boston, MA 02134-1936",-12,3,1,1,0,4
+"Dunkin', Boston","530 Commonwealth Ave, Boston, MA 02215",-27,5,6,5,1,3
+"Burger King, Boston","1 Harborside Dr Terminal E, Boston, MA 02128-2907",-2,2,0,0,0,0
+"Pizzeria Regina, Boston","1 Faneuil Hall Market Pl Ste 36, Boston, MA 02109-6117",-197,72,58,27,9,4
+"College Pizza, Boston","50 Queensberry St, Boston, MA 02215-5101",-18,11,1,2,0,4
+"Insomnia Cookies, Boston","708 Commonwealth Ave, Boston, MA 02215-2448",-7,2,0,2,1,2
+"Dunkin' Donuts, Boston","53 Huntington Ave, Boston, MA 02199-7658",-39,11,4,8,2,2
+"Saloniki, Boston","132 Brookline Ave, Boston, MA 02215-3907",-10,4,1,2,1,1
+"The Longwood Galleria, Boston","350 Longwood Ave, Boston, MA 02115-5726",-26,7,9,6,1,0
+"Dunkin', Boston","265 Franklin St, Boston, MA 02109",-19,7,8,1,0,0
+"Chacarero, Boston","101 Arch St, Boston, MA 02110-1130",-72,40,20,9,1,0
+"Maria's Taqueria, Boston","226 Tremont St, Boston, MA 02116-4726",-25,11,6,3,1,1
+"Super 88 Market Food Court, Boston","1095 Commonwealth Ave, Boston, MA 02215-1022",-41,11,16,3,2,3
+"Viga, Boston","291 Devonshire Street, Boston, MA 02110",-17,10,6,1,0,0
+"Dunkin', Boston","59 Causeway St, Boston, MA 02114",-23,7,5,4,1,0
+"Herrera's Mexican Grill, Boston","11 Temple Pl, Boston, MA 02111-1305",-30,13,11,3,3,0
+"Cobblestone, Boston","227 Hanover St, Boston, MA 02113-2310",-35,12,16,5,0,2
+"by CHLOE. - Fenway, Boston","100 Van Ness Street, Boston, MA 02215",-26,13,8,1,2,1
+"Finagle A Bagel, Boston","277 Cambridge St, Boston, MA 02114-3108",-43,10,17,8,3,1
+"Doughboy Donuts and Deli, Boston","220 Dorchester Ave, Boston, MA 02127-1823",-20,12,6,2,0,0
+"Subway, Boston","31 Saint James Ave Suite 110, Boston, MA 02116",-21,7,3,2,1,0
+"Dunkin', Boston","330 Congress St Ste 1, Boston, MA 02210",-16,3,5,2,1,3
+"Clover, Boston","27 School St, Boston, MA 02108-4633",-31,21,3,0,1,1
+"Bbq Chicken, Boston","182 Harvard Ave, Boston, MA 02134-2806",,,,,,
+"Tiger Sugar, Boston","181 Harvard Ave Boston, Boston, MA 02134-2801",,,,,,
+"Chilacates, Boston","4257 Washington St Roslindale, Boston, MA 02131-3018",,,,,,
+"Tasty Burger, Boston","48 Winter St, Boston, MA 02108-4712",,,,,,
+"Popeyes Louisiana Kitchen, Boston","1630 Vfw Parkway, Boston, MA 02132",,,,,,
+"Sammy Carlo's Delicatessen & Catering, Boston","567 Bennington St, Boston, MA 02128-1554",,,,,,
+"Papa John's Pizza, Boston","522 River St, Boston, MA 02126-3014",,,,,,
+"Yelus, Boston","116 Washington St, Boston, MA 02121-3615",,,,,,
+"Taqueria, Boston","181 Cambridge St Whole Foods, Boston, MA 02114-2786",,,,,,
+"Cappy's Pizza & Subs, Boston","304 Centre St, Boston, MA 02130-1434",,,,,,
+"Dunkin', Boston","1800 Hyde Park Ave, Boston, MA 02136",,,,,,
+"Revolution Health Kitchen, Boston","150 Huntington Ave, Boston, MA 02115-4808",-11,9,1,0,0,0
+"High Spot Deli, Boston","10 Beacon St, Boston, MA 02108-3778",-23,4,15,1,1,0
+"University House of Pizza, Boston","452 Huntington Ave, Boston, MA 02115-5601",-17,7,5,1,1,1
+"Burger King, Boston","10 Saint James Ave, Boston, MA 02116-3813",-4,0,0,2,0,0
+"Moogy's Sandwich Shop, Boston","154 Chestnut Hill Ave, Boston, MA 02135-4639",-15,7,3,4,0,1
+"McDonald's, Boston","185 Franklin St, Boston, MA 02110-1511",-2,0,0,1,0,1
+"Dunkin', Boston","214 N. Beacon St, Boston, MA 02135",-1,0,0,0,0,1
+"La Baguette Marche, Boston","Airport Road Terminal a, Ticketing Area, Boston, MA 02128",-20,2,4,6,1,7

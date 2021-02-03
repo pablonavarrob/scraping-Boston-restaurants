@@ -1,0 +1,202 @@
+name_restaurant,direction,amount_ratings,amount_ratings_excellent,amount_ratings_vgood,amount_ratings_average,amount_ratings_poor,amount_ratings_terrible
+"Figs by Todd English, Boston","67 Main St Charlestown, Boston, MA 02129-3738",(189),63,72,25,10,10
+"Blaze Pizza, Boston","1282 Boylston St, Boston, MA 02215-4448",(71),34,21,4,3,3
+"The Upper Crust, Boston","20 Charles St, Boston, MA 02114-4602",(241),100,59,32,15,17
+"Ducali Pizzeria & Bar, Boston","289 Causeway Street North End, Boston, MA 02114",(124),47,45,10,3,4
+"Pasta Beach, Boston","30 Rowes Wharf, Boston, MA 02110-3345",(298),90,92,37,13,18
+"The Salty Pig, Boston","130 Dartmouth St, Boston, MA 02116-5118",(511),232,198,49,11,4
+"BenCotto, Boston","361 Hanover St, Boston, MA 02113-1910",(161),95,34,10,6,7
+"Sal's Pizza, Boston","150 Tremont St, Boston, MA 02111-1138",(78),39,18,11,2,0
+"Mast's, Boston","45 Province St, Boston, MA 02108-4124",(144),57,33,19,8,4
+"Woody's Grill and Tap, Boston","58 Hemenway St, Boston, MA 02115-2910",(128),62,48,5,2,3
+"Crush Pizza, Boston","107 State St, Boston, MA 02109-2908",(117),61,32,8,3,4
+"Pizzeria Regina, Boston","1 Faneuil Hall Market Pl Ste 36, Boston, MA 02109-6117",(197),72,58,27,9,4
+"Pastoral, Boston","345 Congress Street, Fort Point, Boston, MA 02210-1222",(221),91,66,36,7,4
+"California Pizza Kitchen, Boston","800 Boylston St Suite 155,Prudential Center, Boston, MA 02199",(427),92,153,85,12,16
+"Antico Forno, Boston","93 Salem St Outside Dining Available, Boston, MA 02113-2217",(995),396,335,110,52,36
+"Dirty Water Dough, Boston","222 Newbury St, Boston, MA 02116-2564",(107),49,34,9,3,3
+Boston Kitchen Pizza,"1 Stuart St, Boston, MA 02116-4723",(79),29,23,4,3,3
+"Rina's, Boston","371 Hanover St, Boston, MA 02113-1929",(95),51,21,7,3,3
+"University House of Pizza, Boston","452 Huntington Ave, Boston, MA 02115-5601",(17),7,5,1,1,1
+"Nunzio's Pizzeria, Boston","195 State St, Boston, MA 02109-2678",(41),14,11,10,3,1
+"Big Daddy's, Boston","436 Western Ave, Boston, MA 02135-1016",(28),14,11,0,2,1
+"Tony's Place, Boston","188 Baker St West Roxbury, Boston, MA 02132-4838",(24),7,12,3,1,1
+"Max and Leo's Pizza, Boston","82 Lansdowne St Fenway, Boston, MA 02215-3411",(23),10,3,4,2,2
+"IL Mondo Pizzeria, Boston","182 Massachusetts Ave, Boston, MA 02115-3011",(22),12,4,1,2,2
+"Little Steve's Pizzeria, Boston","1114 Boylston St, Boston, MA 02215-3601",(45),12,10,10,4,3
+"Molinari's, Boston","789 Adams St, Boston, MA 02124-5103",(22),12,4,4,2,0
+AK's South Boston,"309 D St, Boston, MA 02127-1268",(17),9,5,1,0,1
+"Halftime Pizza, Boston","115 Causeway St North Station across from TD Garden, Boston, MA 02114-1304",(67),19,26,11,6,3
+"Pantry Pizza Kitchen, Boston","931 Dorchester Ave, Boston, MA 02125-1251",(15),9,3,2,0,1
+"Eataly, Boston","800 Boylston Street Prudential Center, Boston, MA 02199","(1,040)",420,248,113,66,47
+"Pino’s Pizza, Boston","1920A Beacon St, Boston, MA 02135-7701",(54),20,16,10,1,3
+"All Star Pizza Bar, Boston","204 Cambridge St, Boston, MA 02114-2715",(10),9,1,0,0,0
+"Pushcart Pizza, Boston","117 Salem St, Boston, MA 02113-1728",(118),50,30,12,5,18
+"Kelly's Square Pub, Boston","84 Bennington St, Boston, MA 02128-1710",(44),25,19,0,0,0
+"Oath Craft Pizza, Boston","700 Atlantic Ave, Boston, MA 02111-2813",(25),15,6,3,0,0
+"Sal's Pizza, Boston","132 Brookline Ave, Boston, MA 02215-3907",(46),18,16,6,1,2
+"New York Pizza, Boston","224 Tremont St, Boston, MA 02116-4783",(87),26,30,9,5,2
+"Blaze Pizza, Boston","123 Stuart St, Boston, MA 02116-5609",(27),9,13,1,1,0
+"Sophia's Grotto, Boston","22R Birch St Roslindale, Boston, MA 02131-3008",(93),43,43,5,2,0
+"Coppa, Boston","253 Shawmut Ave, Boston, MA 02118-2178",(365),220,92,23,11,4
+"OTTO, Boston","888 Commonwealth Ave, Boston, MA 02446",(45),22,18,3,0,1
+"Haymarket Pizza, Boston","106 Blackstone St, Boston, MA 02109-1506",(51),31,14,2,1,0
+"Regina’s Pizzeria, Boston","700 Atlantic Ave South Station, Boston, MA 02111-2813",(35),17,8,4,1,0
+"Flatbread Pizza Company Brighton, Boston","76 Guest St, Boston, MA 02135-2028",(19),12,7,0,0,0
+"Florina Pizzeria and Paninoteca, Boston","16 Derne St in back of State House, Boston, MA 02114-4203",(20),17,2,0,0,0
+Area Four Boston,"264 East Berkeley Street Troy South End, Boston, MA 02118-2208",(31),16,11,1,1,0
+"New Market Pizza & Grill, Boston","850 Massachusetts Ave, Boston, MA 02118-2604",(68),39,17,1,0,2
+"Penguin Pizza, Boston","735 Huntington Ave, Boston, MA 02115-6304",(81),43,25,4,3,0
+"Regina Pizzeria, Boston","1330 Boylston St, Boston, MA 02215-4229",(77),39,21,6,0,0
+"Quattro, Boston","264 Hanover St, Boston, MA 02113-2303",(578),215,169,66,21,20
+"Brewer's Fork, Boston","7 Moulton St, Boston, MA 02129-3115",(174),106,51,8,1,2
+"Benevento's, Boston","111 Salem St, Boston, MA 02113-2245",(452),253,123,31,14,12
+"Santarpio's Pizza, Boston","111 Chelsea St, Boston, MA 02128-1937",(596),330,159,38,20,34
+"FIGS by Todd English, Boston","42 Charles St, Boston, MA 02114-4604",(400),170,112,45,9,19
+Locale Boston,"352 Hanover St, Boston, MA 02113-1911",(148),93,31,8,3,0
+"Picco Restaurant, Boston","513 Tremont St, Boston, MA 02116-6306",(320),174,91,21,4,4
+"Ernesto's Pizza, Boston","69 Salem St Ste 1, Boston, MA 02113-2248",(370),209,99,24,6,7
+"Regina Pizzeria, Boston","11 1/2 Thacher St, Boston, MA 02113-1539","(2,793)","1,781",517,143,50,59
+"Italian Express Pizzeria, Boston","336 Sumner St East Boston, Boston, MA 02128-2124",(853),651,100,41,12,7
+"Galleria Umberto, Boston","289 Hanover St, Boston, MA 02113-1810",(293),193,63,20,5,1
+"Vacation Rentals and Apartment Rentals in Boston, MA",,,,,,,
+"Andrew Square House of Pizza, Boston","395 Dorchester St, Boston, MA 02127-2740",(13),4,7,1,0,1
+"Viga, Boston","133 Pearl St, Boston, MA 02110-2499",(8),3,4,0,0,0
+"Rizzo's Pizza, Boston","347 Centre St, Boston, MA 02130-1239",(5),3,2,0,0,0
+"Primo's Restaurant, Boston","28 Myrtle St, Boston, MA 02114-4501",(7),0,5,1,1,0
+"Pat's Of Lower Mills, Boston","2254 Dorchester Ave, Boston, MA 02124-5620",(17),11,4,1,0,1
+"Stash's Pizza, Boston","612 Blue Hill Ave Dorchester, Boston, MA 02121-3212",(4),1,1,1,1,0
+"Rock City Pizza, Boston","568 Cambridge St Allston, Boston, MA 02134-2432",(7),3,1,2,0,0
+"Nino's Pizza, Boston","79 Charles St, Boston, MA 02114-4632",(23),5,11,4,0,2
+"Same Old Place, Boston","662 Centre St, Boston, MA 02130-2507",(23),3,8,5,3,3
+"Papa Gino's, Boston","748 Gallivan Boulevard, Boston, MA 02122",(6),1,1,1,0,0
+"Cappy's Pizza & Subs, Boston","82 Westland Ave, Boston, MA 02115-3811",(12),7,3,1,1,0
+"Tarboosh, Boston","2 Brighton Ave, Boston, MA 02134-2310",(9),8,0,0,0,0
+"Crazy Dough's Pizza, Boston","2201 Commonwealth Ave Brighton, Boston, MA 02135-3853",(16),7,4,2,3,0
+"Crazy Dough's Pizza, Boston","100 Legends Way, Boston, MA 02114-1300",(22),4,7,6,2,2
+"Christos Pizza, Boston","1761 Centre St, Boston, MA 02132-1535",(8),4,2,1,1,0
+"The Proper Slice, Boston","547 Washington St, Boston, MA 02111-1718",(12),7,4,0,1,0
+"Domino's Pizza, Boston","64 Staniford St, Boston, MA 02114-2525",(6),3,0,0,0,2
+"Pizza Shuttle, Boston","239 Meridian St, Boston, MA 02128-1624",(5),1,2,1,0,0
+"DaCoopa's Pizza, Boston","474 Saratoga St, Boston, MA 02128-1439",(10),5,3,1,0,0
+"The Real Deal, Boston","736 Centre St Jamaica Plain, Boston, MA 02130-2518",(49),19,24,3,1,2
+"Jenny's Pizza, Boston","320 Medford St, Boston, MA 02129-1950",(9),3,3,1,0,2
+"Domino's Pizza, Boston","450 Cambridge St, Boston, MA 02134-2030",(6),2,0,0,0,2
+"Rome Pizza & Grill, Boston","416 Tremont St, Boston, MA 02116-6309",(17),6,5,3,0,0
+"Captain Nemo's, Boston","367 Centre St, Boston, MA 02130-1241",(2),0,1,1,0,0
+"La Befana Pizzeria, Boston","15 N Beacon St Ste 12, Boston, MA 02134-1936",(12),3,1,1,0,4
+"Nicole's Pizza, Boston","639 Tremont St, Boston, MA 02118-1261",(13),4,3,0,2,3
+"Riddick's House of Pizza, Boston","400 Neponset Ave, Boston, MA 02122-3134",(1),0,0,1,0,0
+"University Grill & Pizza, Boston","712 Commonwealth Ave Ste 2, Boston, MA 02215-2414",(11),4,5,1,1,0
+Boston Pizza Express,"1026 Commonwealth Ave, Boston, MA 02215-1103",(1),1,0,0,0,0
+"Kelley Square Pub, Boston","84 Bennington St, Boston, MA 02128-1710",(12),7,2,1,1,0
+"The Upper Crust Pizzeria, Boston","245 Summer St, Boston, MA 02210-1133",(1),0,0,1,0,0
+"Supreme Pizza, Boston","177 Massachusetts Ave., Boston, MA 02115",(19),5,5,3,0,3
+"Nick's House of Pizza, Boston","467 W Broadway, Boston, MA 02127-2218",(2),1,0,1,0,0
+"Rabottini’s Pizza, Boston","182 Western Ave, Boston, MA 02134-1031",(1),0,0,1,0,0
+"Alex Pizza & Grill, Boston","1252 Washington St, Boston, MA 02118-2109",(1),0,0,1,0,0
+"Checkmate Cafe, Boston","900 South St, Boston, MA 02131-2407",(3),0,2,1,0,0
+"Andalus Pizza & Cafe, Boston","153 Sutherland Rd, Boston, MA 02135-7301",(9),2,3,0,2,0
+"DeNo's Pizza and Subs, Boston","2040 Centre St, Boston, MA 02132-3326",(8),1,3,2,0,2
+"West End Pizza, Boston","252 Friend St, Boston, MA 02114-1801",(3),0,3,0,0,0
+"Mattapan House of Pizza, Boston","1631 Blue Hill Ave, Boston, MA 02126-2107",(1),1,0,0,0,0
+"Comellas, Boston","1844 Centre St, Boston, MA 02132-1901",(18),11,3,1,3,0
+"College Pizza, Boston","50 Queensberry St, Boston, MA 02215-5101",(18),11,1,2,0,4
+"Mister McGoo's Pizza & Subs, Boston","479 W Broadway, Boston, MA 02127-2267",(6),2,2,2,0,0
+"Zesto's Pizza & Grille, Boston","460 Centre St, Boston, MA 02130-2056",(6),5,1,0,0,0
+"Inbound Pizza, Boston","1232 Commonwealth Ave, Boston, MA 02134-4229",(16),5,3,3,2,2
+"Pizza Pie-er, Boston","182 Massachusetts Ave, Boston, MA 02115-3011",(6),4,1,0,1,0
+"Joseph's Sub Shop & Pizza, Boston","8 S Huntington Ave, Boston, MA 02130-4701",(3),1,1,1,0,0
+"Pizza Hut, Boston","950 Hyde Park Ave, Boston, MA 02136",(3),0,2,1,0,0
+Boston House of Pizza,"305 Huntington Ave, Boston, MA 02115-4401",(6),1,3,1,1,0
+"Alfredo's Italian Kitchen, Boston","243 Dorchester St, Boston, MA 02127-2803",(18),8,5,3,0,2
+"Felcaro Pizzeria, Boston","280 Cambridge St, Boston, MA 02114-3123",(27),4,10,5,2,3
+"The Upper Crust, Boston","683 Tremont St, Boston, MA 02118-1262",(15),6,6,1,1,1
+"Crazy Dough's Pizza, Boston","800 Boylston Street Prudential Center, Boston, MA 02199",(19),3,3,7,1,1
+"Rocco's Cucina & Bar, Boston","450 Commercial St, Boston, MA 02109-1021",(97),48,28,8,5,2
+"New York Pizza, Boston","435 Massachusetts Ave, Boston, MA 02118-3504",(22),10,7,3,1,1
+"Blaze Pizza, Boston","961 Commonwealth Ave, Boston, MA 02215-1305",(10),4,4,0,0,1
+"Sal's Ristorante & Pizzeria, Boston","205 L St, Boston, MA 02127-4212",(15),8,5,1,0,0
+"A & N House of Pizza, Boston","1409 Centre St Roslindale, Boston, MA 02132-7913",(10),6,4,0,0,0
+"Ecco Pizzeria, Boston","1147 Commonwealth Ave, Boston, MA 02134-3104",(8),5,2,0,0,0
+"Union Park Pizza, Boston","1405 Washington St, Boston, MA 02118-2009",(4),4,0,0,0,0
+"Lily's Garden & Patio, Boston","33 Batterymarch St, Boston, MA 02110-3209",(1),1,0,0,0,0
+"Gallo's Pizzeria, Boston","165 Seaport Blvd, Boston, MA 02210-2012",(3),0,1,0,0,0
+"Domino's Pizza, Boston","1144 Saratoga St, Boston, MA 02128-1228",(6),1,1,0,1,3
+"Red Line Pizza and Grill, Boston","582 Dorchester Ave, Boston, MA 02127-2722",(8),4,1,1,0,2
+Boston pizza grill,"535 Columbia Rd, Boston, MA 02125-2315",(3),0,0,0,1,0
+"Domino's Pizza, Boston","207 Adams St, Boston, MA 02122-1618",(3),0,0,1,0,2
+"Domino's Pizza, Boston","695 Truman Hwy Ste 1, Boston, MA 02136-3552",(2),0,0,0,0,2
+"LA Mamma Pizza & More, Boston","190 Brighton Ave Ste A, Boston, MA 02134-2031",(5),2,3,0,0,0
+"Pizza Days, Boston","111 Brighton Ave, Boston, MA 02134-2802",(8),1,2,0,1,3
+"Cafe Podima, Boston","168 Cambridge St, Boston, MA 02114-2714",(22),5,11,4,1,0
+"Game On!, Boston","82 Lansdowne St, Boston, MA 02215-3411",(163),39,53,40,10,13
+"Domino's Pizza, Boston","1260 Boylston St Ste 2, Boston, MA 02215",(20),3,1,2,0,9
+"Domino's Pizza, Boston","4640 Washington St, Boston, MA 02131-4855",(1),0,0,0,1,0
+"Rossini's Pizzeria & Trattoria, Boston","1252 Washington St, Boston, MA 02118-2109",(1),0,0,1,0,0
+"Al Capone's, Boston","82 Summer St, Boston, MA 02110-1210",(26),10,8,5,1,2
+"The Best Sausage Co, Boston","Jersey Street, Boston, MA 02215-3408",(30),10,7,8,0,3
+"Domino's Pizza, Boston","464 Washington St, Boston, MA 02135-2620",(4),0,1,0,0,0
+"Crispy Dough Pizzeria, Boston","1514 Tremont St, Boston, MA 02120-2928",(6),1,1,2,0,2
+"DW Brewpub, Boston","820 William T Morrissey Blvd, Boston, MA 02122-3404",(40),8,10,14,2,2
+"Sbarro, Boston","1 Harborside Dr Terminal C, Boston, MA 02128",(10),0,2,3,2,2
+"Blue Hill House of Pizza, Boston","161 Blue Hill Ave, Boston, MA 02119-2118",,,,,,
+"Backwoods Pizza, Boston","539 Dudley St, Boston, MA 02119-2768",,,,,,
+"Arizona Barbeque, Boston","2360 Washington St, Boston, MA 02119-3215",,,,,,
+"El Kiosco, Boston","972 Saratoga St, Boston, MA 02128-1142",(5),2,1,2,0,0
+"Mangia Neapolitan Pizza, Boston","7 Ellery St, Boston, MA 02127-2747",(1),0,0,1,0,0
+"Milk Street Cafe, Boston","50 Milk St Lobby C, Boston, MA 02109-5003",(82),49,25,3,1,1
+"Metro Cafe, Boston","332 Congress St, Boston, MA 02210-1217",(10),3,3,3,0,0
+"Porters Bar & Grill, Boston","173 Portland St, Boston, MA 02114-1702",(128),41,53,14,7,5
+"Domino's Pizza, Boston","1672 Blue Hill Ave, Boston, MA 02126-2108",(1),0,0,0,0,1
+"City Place, Boston","10 Park Plz, Boston, MA 02116-3933",(12),4,0,2,0,0
+"Jaho Coffee Roaster & Wine Bar, Boston","116 Huntington Ave, Boston, MA 02116-5749",(17),5,6,2,0,2
+"Dimitrios Restaurant, Boston","1750 Dorchester Ave, Boston, MA 02124-2531",(1),0,0,1,0,0
+"Wingit Foods INC, Boston","1153 Commonwealth Ave, Boston, MA 02134-3104",(11),4,4,1,0,2
+"Kings Dining & Entertainment, Boston","60 Seaport Blvd Suite 225, Boston, MA 02210-2042",(18),11,1,0,2,1
+"Cafe Artigiano, Boston","8 City Hall Ave near the Old City Hall, accessible by School Street or 15 Court Square, Boston, MA 02108-4301",(6),5,1,0,0,0
+"Cobblestone, Boston","227 Hanover St, Boston, MA 02113-2310",(35),12,16,5,0,2
+"Burritos Pizzeria, Boston","3492 Washington St, Boston, MA 02130-2609",(3),2,1,0,0,0
+"Sutton Pizza Restaurant, Boston","146 Boston St, Boston, MA 02125-1141",(1),0,0,1,0,0
+"Spukies'n Pizza, Boston","1159 Washington St, Boston, MA 02124-5525",(5),3,1,0,0,1
+"D'Angelo Grilled Sandwiches, Boston","700 Atlantic Ave., Boston, MA 02210",(5),2,2,0,0,0
+"Good Eats Pizza & Subs, Boston","1002 Tremont St, Boston, MA 02120-2119",(1),1,0,0,0,0
+"UNO Chicago Grill, Boston","100 Charles St, Boston, MA 02114-4609",(2),0,2,0,0,0
+"Crazy Dough's Pizza, Boston","1124 Boylston St, Boston, MA 02215-3601",(28),17,10,0,1,0
+"Olympic House of Pizza, Boston","655 E Broadway, Boston, MA 02127-1503",(3),1,1,1,0,0
+"Burritos Pizzeria, Boston","1282 Hyde Park Ave, Boston, MA 02136-2702",(2),0,1,0,0,1
+Boston pizza grill,"33 Willis St, Boston, MA 02125-1944",(1),0,0,0,1,0
+"Domino's Pizza, Boston","163 Old Colony Ave, Boston, MA 02127-2409",(2),0,1,0,0,1
+"Bertucci's Italian Restaurant, Boston","1 Blackfan Cir, Boston, MA 02115-5713",(28),8,8,2,4,4
+"La Famiglia Spagnuolo, Boston","240 Hanover St, Boston, MA 02113-2303",(173),30,33,13,20,65
+"Roy's Cold Cuts, Boston","198 Marion St, Boston, MA 02128-1724",(12),7,5,0,0,0
+"Fiorella's Express, Boston","2 Tremont St, Boston, MA 02135-2407",(9),8,0,0,0,1
+"il Panino Cafe and Grill, Boston","268 Centre St, Boston, MA 02130-1638",(7),2,3,1,1,0
+"South End Pizza and Grill, Boston","772 Tremont St, Boston, MA 02118-1106",(13),2,1,3,1,5
+"Fast Eddie's Pizza, Boston","1696 Commonwealth Ave, Boston, MA 02135-5602",(6),0,1,2,0,2
+"Dogwood Cafe, Boston","3712 Washington St Jamaica Plain, Boston, MA 02130-3701",(61),28,25,6,2,0
+"Adam Pizza, Boston","120 Blackstone St, Boston, MA 02109-1506",(2),0,0,0,1,1
+"Cafe Porto Bello, Boston","672 E Broadway, Boston, MA 02127-1596",(44),22,18,0,1,1
+"L Street Diner & Pizzeria, Boston","108 L St, Boston, MA 02127-3171",(26),15,9,0,1,1
+"Emilios Pizza & Sub Shop, Boston","536 Tremont St, Boston, MA 02116-6335",(38),10,13,5,3,4
+"JP House of Pizza, Boston","775 Centre St, Boston, MA 02130-2557",(4),0,3,0,0,0
+"Servia, Boston","126 State St Cunard Building, Boston, MA 02109-2305",,,,,,
+"Maria's Kitchen, Boston","1829 Centre St West Roxbury, Boston, MA 02132-1945",,,,,,
+"OTTO, Boston","416 W Broadway Entrance on F Street, behind Caffé Nero, Boston, MA 02127",,,,,,
+"Great Taste, Boston","100 City Hall Plaza, Boston, MA 02108-2105",,,,,,
+"The Circle, Boston","356 Chestnut Hill Ave, Boston, MA 02135-7773",,,,,,
+"Domino's Pizza, Boston","277 Main St # 279, Boston, MA 02129-2917",,,,,,
+"Nicholas Sub & Pizza Shop, Boston","600 Hyde Park Ave, Boston, MA 02131-3812",,,,,,
+"Papa John's Pizza, Boston","522 River St, Boston, MA 02126-3014",,,,,,
+"Lani's Pizza, Boston","1286 Blue Hill Ave, Boston, MA 02126-1806",,,,,,
+"Cappy's Pizza & Subs, Boston","304 Centre St, Boston, MA 02130-1434",,,,,,
+"Jubilee Grille Pizzeria, Boston","45 Milk St, Boston, MA 02109-5105",,,,,,
+"Joseph's Pizzeria, Boston","1200 Blue Hill Ave, Boston, MA 02126-1819",,,,,,
+"Tony's Pizzeria, Boston","10 Fairmount Ave, Boston, MA 02136-2716",,,,,,
+"Domino's Pizza, Boston","1400 Tremont St Roxbury Crossing Station - Space D, Boston, MA 02120",,,,,,
+"Burritos Pizzeria, Boston","224 Columbia Rd, Boston, MA 02121-3408",,,,,,
+"D'Angelo Grilled Sandwiches, Boston","850 Harrison Ave., Boston, MA 02118",,,,,,
+"Sergios Pizzaria, Boston","283 Old Colony Ave, Boston, MA 02127-3520",,,,,,
+"Slice Place, Boston","115 Water St, Boston, MA 02109-4823",,,,,,
+"Egleston Corner Pizza, Boston","3080 Washington St, Boston, MA 02119-3115",,,,,,
+"Kipos Pizzeria & Restaurant, Boston","106 Bunker Hill St, Boston, MA 02129-3131",,,,,,

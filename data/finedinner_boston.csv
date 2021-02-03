@@ -1,0 +1,92 @@
+name_restaurant,direction,amount_ratings,amount_ratings_excellent,amount_ratings_vgood,amount_ratings_average,amount_ratings_poor,amount_ratings_terrible
+"Parker's Restaurant, Boston","60 School St Omni Hotel, Boston, MA 02108-4109",-644,304,197,77,31,13
+Boston Chops,"1375 Washington St, Boston, MA 02118-2140",-325,154,92,41,11,4
+"Ruth's Chris Steak House, Boston","45 School Street Old City Hall, Boston, MA 02108",-852,406,192,87,53,19
+"Select Oyster Bar, Boston","50 Gloucester St, Boston, MA 02115-3141",-269,148,63,19,11,10
+"No. 9 Park, Boston","9 Park St, Boston, MA 02108-4804",-558,329,101,58,34,17
+"Bistro du Midi, Boston","272 Boylston St, Boston, MA 02116-3917",-584,305,137,69,20,6
+"Scampo, Boston","215 Charles St Liberty Hotel, Boston, MA 02114-3001",-700,375,190,61,22,18
+"Lucca, Boston","226 Hanover St, Boston, MA 02113-2302",-552,259,170,66,28,6
+"Morton's The Steakhouse, Boston","2 Seaport Ln 2 Seaport Lane, Boston, MA 02210-2001",-464,219,107,54,14,4
+"UNI, Boston","370A Commonwealth Ave The Eliot Hotel, Boston, MA 02215",-270,153,52,27,18,2
+"Mooo Restaurant, Boston","15 Beacon St, Boston, MA 02108-2902",-808,438,223,62,21,20
+"Ruka Restobar, Boston","505 Washington St, Boston, MA 02111-1211",-248,131,54,22,8,4
+"Ristorante Toscano, Boston","47 Charles St, Boston, MA 02114-4605",-653,358,164,42,19,19
+"Yvonne's, Boston","2 Winter Pl, Boston, MA 02108-4733",-417,251,93,30,10,11
+"Basile - Fine Italian Kitchen, Boston","162 Columbus Avenue, Boston, MA 02116-5235",-258,151,59,23,5,3
+"Grill 23 & Bar, Boston","161 Berkeley St, Boston, MA 02116-5108","-1,227",618,310,120,42,29
+"La Voile, Boston","261 Newbury St, Boston, MA 02116-2402",-659,371,152,52,17,3
+"Ocean Prime, Boston","140 Seaport Blvd, Boston, MA 02210-2045",-491,289,113,33,13,6
+"Abe & Louie's, Boston","793 Boylston St, Boston, MA 02116","-1,866","1,019",405,162,77,32
+"Menton, Boston","354 Congress St, Boston, MA 02210-1295",-452,312,53,41,14,7
+"Prezza, Boston","24 Fleet St, Boston, MA 02113",-384,236,81,41,10,4
+"Davio's Northern Italian Steakhouse, Boston","75 Arlington St, Boston, MA 02116-3936",-771,437,189,62,15,12
+"Deuxave, Boston","371 Commonwealth Ave, Boston, MA 02115-1811",-868,584,152,63,13,11
+"Sorellina, Boston","1 Huntington Ave, Boston, MA 02116-5713",-812,509,155,58,21,6
+"O Ya, Boston","9 East St, Boston, MA 02111-2849",-319,218,48,22,8,5
+"Atlantic Fish Co, Boston","761 Boylston St, Boston, MA 02116","-4,757","2,681","1,054",332,96,57
+"Mistral, Boston","223 Columbus Ave, Boston, MA 02116-5113","-1,064",694,206,75,26,10
+"Ostra, Boston","1 Charles St S, Boston, MA 02116-5447","-1,033",663,166,52,16,8
+"The Capital Grille, Boston","900 Boylston St, Boston, MA 02115-3101","-1,174",688,212,84,29,9
+"Mamma Maria, Boston","3 North Square, Boston, MA 02113-2404","-1,233",799,241,74,32,25
+"Artisan Bistro, Boston","10 Avery St The Ritz-Carlton, Boston Common, Boston, MA 02111-1005",-148,54,41,25,11,8
+"Sofia Italian Steakhouse, Boston","1430 Vfw Parkway West Roxbury, Boston, MA 02132-5434",-120,50,44,10,9,6
+"Asta, Boston","47 Massachusetts Ave, Boston, MA 02115-1400",-90,57,15,8,5,2
+"Porto, Boston","Ring Road, Boston, MA 02199-7820",-126,54,33,19,14,5
+"Mastro's Ocean Club, Boston","25 Fan Pier Blvd, Boston, MA 02210",-122,62,23,13,8,8
+"blu, Boston","4 Avery St 4 TH Floor Ritz-Carlton, Boston, MA 02111-1005",-153,55,61,18,11,5
+"Venezia, Boston","20 Ericsson St, Boston, MA 02122-3695",-154,78,42,18,8,6
+"Mare Oyster Bar, Boston","3 Mechanic St, Boston, MA 02113-2336",-176,91,36,18,13,8
+Boston Chops,"52 Temple Pl, Boston, MA 02111-1363",-60,35,13,2,4,0
+"Tuscan Kitchen Seaport, Boston","64 Seaport Blvd, Boston, MA 02210-2042",-119,59,28,21,5,2
+The Palm Boston,"1 International Pl Ste 190, Boston, MA 02110",-309,121,86,53,18,16
+"Bastille Kitchen, Boston","49 Melcher St, Boston, MA 02210-1514",-168,73,50,27,9,3
+"The Langham Hotel, Boston","250 Franklin St, Boston, MA 02110-2807",-120,66,26,9,5,2
+"Chart House, Boston","60 Long Wharf, Boston, MA 02110-3602","-1,466",524,416,179,105,84
+"Miel Brasserie Provencale, Boston","510 Atlantic Ave, Boston, MA 02210-2210",-360,162,79,58,18,15
+"Mooncusser Fish House, Boston","304 Stuart St, Boston, MA 02116-5242",-85,59,14,7,1,1
+"Bristol Restaurant and Bar, Boston","200 Boylston St, Boston, MA 02116-3916",-324,157,73,44,21,10
+"Bricco, Boston","241 Hanover St, Boston, MA 02113-2322","-1,001",569,231,90,42,25
+"Troquet, Boston","107 South Street, Boston, MA 0211",-195,112,52,15,7,5
+"Strega Waterfront, Boston","56 Northern Ave One Marina Park Drive, Boston, MA 02210-1862",-488,209,124,91,40,14
+"Del Frisco's Double Eagle Steakhouse, Boston","250 Northern Ave Suite 200, Boston, MA 02210-2027",-906,424,215,127,56,39
+"STRIP by Strega, Boston","64 Arlington St Boston Park Plaza Hotel, Boston, MA 02116-3901",-241,117,52,28,14,5
+"CLINK., Boston","215 Charles St The Liberty Hotel, Boston, MA 02114-3001",-449,147,166,89,24,7
+Smith & Wollensky - Boston Atlantic Wharf,"294 Congress St Atlantic Wharf Boston, Boston, MA 02210-1003",-437,206,100,44,21,23
+"Rowes Wharf Sea Grille, Boston","70 Rowes Wharf, Boston, MA 02110-3300",-422,187,118,61,26,9
+"Top of the Hub, Boston","800 Boylston Street Prudential Center Boston, Boston, MA 02199","-2,948","1,090",767,365,137,106
+"Fogo de Chao Brazilian Steakhouse, Boston","200 Dartmouth St, Boston, MA 02116-3501",-758,299,188,71,31,14
+"Lucca Back Bay, Boston","116 Huntington Ave, Boston, MA 02116-5749",-343,150,107,48,14,2
+"The Oceanaire Seafood Room, Boston","40 Court St, Boston, MA 02108",-656,321,157,77,34,11
+Oishii Boston,"1166 Washington St, Boston, MA 02118-4113",-282,164,60,16,10,6
+"The Jewel of Newbury Restaurant, Boston","254A Newbury St, Boston, MA 02116-2403",,,,,,
+"Regal Cafe, Boston","686 Morton St, Boston, MA 02126-1571",-2,0,0,0,0,2
+"Seasons Restaurant, Boston","24 North St, Boston, MA 02109-1503",-2,1,0,0,1,0
+"Davio's Seaport, Boston","50 Liberty Dr, Boston, MA 02210-1339",-6,3,1,1,0,1
+"The Daily Catch Waterfront, Boston","65 Atlantic Ave, Boston, MA 02110-3714",-3,3,0,0,0,0
+"No Relation, Boston","11 William E. Mullins Way at Harrison Ave, Boston, MA 02118",-4,3,1,0,0,0
+"The Reserve, Boston","250 Franklin St The Langham, Boston, MA 02110-2807",-33,11,8,7,4,2
+"Woods Hill Pier 4, Boston","300 Pier 4 Blvd, Boston, MA 02210-2490",-12,6,1,4,0,1
+"Mariel, Boston","10 Post Office Square, Boston, MA 02109-4603",-15,5,6,1,0,2
+"Bogie's Place, Boston","25 Temple Pl Inside JM Curley's Bar, Boston, MA 02111-1308",-21,11,3,3,1,2
+Boston College Club,"100 Federal St, Boston, MA 02110-1802",-13,10,1,1,1,0
+"Peregrine, Boston","170 Charles St Whitney Hotel, Boston, MA 02114-3253",-18,8,3,4,3,0
+"Terra, Boston","800 Boylston Street, Prudential Center, Boston, MA 02199",-14,8,2,2,0,1
+"Stir, Boston","102 Waltham St, Boston, MA 02118-3618",-11,8,1,1,0,0
+"Seaport Elite II, Boston","200 Seaport Blvd Suite 75, Boston, MA 02210",-8,8,0,0,0,0
+"Orfano, Boston","1391 Boylston St, Boston, MA 02215-3913",-20,6,6,6,1,0
+The Roof at Taj Boston,"15 Arlington Street, Boston, MA 02116",-37,17,7,5,1,3
+"Lola 42, Boston","22 Liberty Dr, Boston, MA 02210-1234",-48,19,9,11,2,5
+"The Hungry I, Boston","71 Charles St, Boston, MA 02114-4608",-103,38,28,6,13,13
+Zuma Boston,"1 Dalton St, Boston, MA 02115-3184",-40,21,5,5,2,5
+"Ilona, Boston","783 Tremont St, Boston, MA 02118-1005",-10,7,3,0,0,0
+"Del Frisco's Double Eagle Steakhouse, Boston","888 Boylston St Suite 053, Boston, MA 02199-8192",-66,29,10,5,6,10
+The French Room at Taj Boston,"15 Arlington St 2nd Floor, Boston, MA 02116-3417",-61,26,15,7,3,3
+"Avery Bar, Boston","10 Avery St The Ritz-Carlton, Boston, MA 02111-1005",-46,24,12,1,3,2
+"Eddie V's Prime Seafood, Boston","122 Belvidere St, Boston, MA 02199-7617",-42,23,8,3,2,3
+"Oak + Rowan, Boston","321 A Street Fort Point, Boston, MA 02210-1610",-116,44,36,19,8,6
+"Kamakura, Boston","150 State St, Boston, MA 02109-2505",-24,17,3,2,1,0
+The Cafe at Taj Boston,"15 Arlington St, Boston, MA 02116-3417",-186,81,47,16,9,19
+Harvard Club of Boston,"374 Commonwealth Ave, Boston, MA 02215-2860",-53,26,13,7,1,2
+PABU Boston,"3 Franklin St, Boston, MA 02110",-79,40,15,14,0,5
+"Servia, Boston","126 State St Cunard Building, Boston, MA 02109-2305",,,,,,
