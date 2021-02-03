@@ -15,4 +15,5 @@ The *stettings.py* file is alread set-up to read and function according to the *
 
 I added some of the data I gathered in case the crawlers don't work anymore because of faulty selectors, feel free to use. I included polygon data as a *.geojson* file for the plotting of the restaurants with Python (density areas in the plot were obtained as a Gaussian Kernel Density Estimation)
 
-<img src="" >
+<br>
+<img src="https://github.com/pablonavarrob/scraping-Boston-restaurants/blob/main/Screen%20Shot%202021-02-03%20at%2016.53.55.png" >
